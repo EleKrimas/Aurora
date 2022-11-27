@@ -1,0 +1,80 @@
+{
+  "type": "additions:gold_tree",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:gold_block",
+      "meta": 0
+    },
+    "b": {
+      "name": "minecraft:stained_glass",
+      "meta": 4
+    },
+    "c": {
+      "name": "minecraft:log",
+      "meta": 7
+    },
+    "d": {
+      "name": "minecraft:log",
+      "meta": 11
+    },
+    "e": {
+      "name": "minecraft:glowstone",
+      "meta": 0
+    },
+    "f": {
+      "name": "minecraft:log",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "      ",
+      " b    ",
+      "      ",
+      "      ",
+      "      ",
+      "      "
+    ],
+    [
+      " b    ",
+      "bab b ",
+      " f    ",
+      " dc   ",
+      "      ",
+      "      "
+    ],
+    [
+      "    b ",
+      " b bab",
+      "    f ",
+      "  ded ",
+      "   f  ",
+      "   f  "
+    ],
+    [
+      "      ",
+      "   bb ",
+      "      ",
+      "   c  ",
+      "      ",
+      "      "
+    ],
+    [
+      "   b  ",
+      "  bab ",
+      "   f  ",
+      "   c  ",
+      "      ",
+      "      "
+    ],
+    [
+      "      ",
+      "   b  ",
+      "      ",
+      "      ",
+      "      ",
+      "      "
+    ]
+  ]
+}

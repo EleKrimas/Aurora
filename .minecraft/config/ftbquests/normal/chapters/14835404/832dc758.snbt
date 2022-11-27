@@ -1,0 +1,34 @@
+{
+	x: -4.0d,
+	y: -4.0d,
+	text: [
+		"对于炼金学家来说，自己的血液向来是一个极为优良的魔法触媒，拥有着炼金术的终极奥义——点石成金的潜力"
+	],
+	dependencies: [
+		"0913d7a0"
+	],
+	tasks: [{
+		uid: "e569ede3",
+		type: "item",
+		items: [{
+			id: "extraalchemy:dagger",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "32908859",
+		type: "item",
+		items: [{
+			id: "extraalchemy:blood_bottle",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

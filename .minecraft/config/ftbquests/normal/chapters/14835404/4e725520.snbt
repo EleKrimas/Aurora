@@ -1,0 +1,20 @@
+{
+	title: "水之本源",
+	x: -4.0d,
+	y: 0.5d,
+	text: [
+		"这是魔封瓶的基础运用，现在，终于可以有真正意义上的水源了",
+		"四个本源就能合成一个水流体球，而玻璃瓶的配方可以无损返还，大可不必为了水攒更多的本源"
+	],
+	dependencies: [
+		"20e5c0ed",
+		"e6a22ea3"
+	],
+	tasks: [{
+		uid: "10a5ce22",
+		type: "item",
+		items: [{
+			item: "extraalchemy:essence_water"
+		}]
+	}]
+}

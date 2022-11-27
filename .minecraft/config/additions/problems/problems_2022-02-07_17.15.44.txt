@@ -1,0 +1,5 @@
+C:\Users\asus\Desktop\Aurora\.minecraft\addons\Additions\Aurora\data\loot_tables\additions\blocks\aurora-fusheng_ice.json
+- Expected preset_block to be a block, was unknown string 'additions:aurora-fusheng_ice'
+- Expected preset_block to be a block, was unknown string 'additions:aurora-fusheng_ice'
+- Expected preset_block to be a block, was unknown string 'additions:aurora-fusheng_ice'
+

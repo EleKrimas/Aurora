@@ -1,0 +1,18 @@
+{
+	title: "玻璃瓶",
+	x: -2.5d,
+	y: -1.0d,
+	text: [
+		"这是现在能做出唯一的能装液体的容器，或许能用它承载某些介质"
+	],
+	dependencies: [
+		"f85735ab"
+	],
+	tasks: [{
+		uid: "5881ddf5",
+		type: "item",
+		items: [{
+			item: "minecraft:glass_bottle"
+		}]
+	}]
+}

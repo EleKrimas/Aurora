@@ -1,0 +1,17 @@
+{
+	x: -2.5d,
+	y: -2.0d,
+	text: [
+		"将宝石进行更进一步雕琢的必要设备，能充分发挥出其所蕴含的潜力"
+	],
+	dependencies: [
+		"3ab09f8a"
+	],
+	tasks: [{
+		uid: "e17e96c8",
+		type: "item",
+		items: [{
+			item: "arcanearchives:gemcutters_table"
+		}]
+	}]
+}

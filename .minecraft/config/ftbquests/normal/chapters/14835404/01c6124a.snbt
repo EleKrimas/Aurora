@@ -1,0 +1,26 @@
+{
+	title: "碎石",
+	icon: "minecraft:flint",
+	x: -2.5d,
+	y: -4.0d,
+	text: [
+		"将石头与沙子的混合物和石堆分别在坚硬的石头上击打，便会产生一些更为精细的材料，当然，目前需要手动去做"
+	],
+	dependencies: [
+		"376e2128"
+	],
+	tasks: [{
+		uid: "535277ef",
+		type: "item",
+		items: [{
+			item: "additions:aurora-small_sand"
+		}]
+	},
+	{
+		uid: "0113f35c",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		}]
+	}]
+}

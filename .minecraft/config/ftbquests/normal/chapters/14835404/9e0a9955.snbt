@@ -1,0 +1,18 @@
+{
+	x: -7.0d,
+	y: -5.5d,
+	text: [
+		"溶液并不会像溶剂那样直接将人蒸发",
+		"不如泡个澡，作为一位炼金术师，对探索新事物做出些牺牲是应该的"
+	],
+	dependencies: [
+		"57fb08fe"
+	],
+	tasks: [{
+		uid: "d5522dac",
+		type: "item",
+		items: [{
+			item: "extraalchemy:essence_life"
+		}]
+	}]
+}

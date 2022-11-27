@@ -1,0 +1,13 @@
+{
+  "item_block": {
+    "name": "比较坚硬的圆石",
+    "type": "additions:block_simple"
+  },
+  "name": "比较坚硬的圆石",
+  "material": "minecraft:stone",
+  "hardness": 15.0,
+  "resistance": 8.0,
+  "harvest_level": 2,
+  "harvest_tool": "pickaxe",
+  "type": "additions:simple"
+}

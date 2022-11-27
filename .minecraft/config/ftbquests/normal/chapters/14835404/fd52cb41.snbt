@@ -1,0 +1,31 @@
+{
+	x: -1.0d,
+	y: -8.5d,
+	text: [
+		"用魔法驱动的树脂提取机，将它贴合在树干旁边，它便会用极度缓慢的速度从树木中提取精华"
+	],
+	dependencies: [
+		"cb5ec054"
+	],
+	tasks: [{
+		uid: "79843be0",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			Damage: 3s,
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				]
+			}
+		}]
+	}]
+}

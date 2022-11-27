@@ -1,0 +1,43 @@
+{
+	title: "切割",
+	icon: "roots:bark_oak",
+	x: -5.5d,
+	y: -1.0d,
+	text: [
+		"现在的工具水平并不能把原木加工成实用的木板，只能退而求其次，用匕首刮点树皮"
+	],
+	dependencies: [
+		"6d49236b"
+	],
+	tasks: [{
+		uid: "17974010",
+		type: "item",
+		items: [{
+			id: "roots:stone_knife",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8acd3bcd",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any rootsBark"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "rootsBark"
+				}
+			}
+		}],
+		count: 16L
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: -4.0d,
+	y: -8.5d,
+	text: [
+		"这是第一个真正意义上可以进行复杂化的魔法工作台",
+		"它可以用工具将物品和流体制作成进一步的材料",
+		"但是你现在只能做得起木质工具"
+	],
+	dependencies: [
+		"457bf7ce",
+		"0923e0b5"
+	],
+	tasks: [{
+		uid: "3f65517c",
+		type: "item",
+		items: [{
+			item: "artisanworktables:worktable 1 7"
+		}]
+	}]
+}

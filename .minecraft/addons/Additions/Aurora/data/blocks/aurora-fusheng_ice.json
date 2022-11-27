@@ -1,0 +1,13 @@
+{
+  "item_block": {
+    "name": "富生冰晶",
+    "type": "additions:block_simple"
+  },
+  "name": "富生冰晶",
+  "material": "minecraft:stone",
+  "harvest_level": 1,
+  "harvest_tool": "shovel",
+  "light_opacity": 0,
+  "semi_transparent": true,
+  "type": "additions:simple"
+}

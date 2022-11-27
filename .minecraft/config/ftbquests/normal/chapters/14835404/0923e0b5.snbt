@@ -1,0 +1,24 @@
+{
+	x: -4.0d,
+	y: -7.0d,
+	text: [
+		"以血为媒，法阵为引，便可创造出点石成金的神奇溶液",
+		"法阵只是负责转换，并不会消耗",
+		"相信我，你不会喜欢它的味道的"
+	],
+	dependencies: [
+		"f7326207"
+	],
+	tasks: [{
+		uid: "466bdac1",
+		type: "item",
+		items: [{
+			id: "extraalchemy:alchemical_dissovent",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

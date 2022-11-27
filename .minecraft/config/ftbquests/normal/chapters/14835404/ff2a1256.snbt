@@ -1,0 +1,18 @@
+{
+	x: -5.5d,
+	y: -2.5d,
+	text: [
+		"将刮下来的树皮进一步加工，便可以获得木棍，这种材料相比于石棍有着更好的性能"
+	],
+	dependencies: [
+		"7dceac5c"
+	],
+	tasks: [{
+		uid: "7de5edad",
+		type: "item",
+		items: [{
+			item: "minecraft:stick"
+		}],
+		count: 8L
+	}]
+}

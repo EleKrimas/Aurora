@@ -1,0 +1,18 @@
+{
+	x: -4.0d,
+	y: -5.5d,
+	text: [
+		"法阵是炼金学的基础，一切炼金造物皆源于此",
+		"其间的每一根线条都蕴藏着本源之力，引动着世界的奥妙"
+	],
+	dependencies: [
+		"832dc758"
+	],
+	tasks: [{
+		uid: "9e3814a5",
+		type: "item",
+		items: [{
+			item: "extraalchemy:alchemy_array_transmute"
+		}]
+	}]
+}

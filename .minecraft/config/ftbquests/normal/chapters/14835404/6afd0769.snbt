@@ -1,0 +1,22 @@
+{
+	x: -2.5d,
+	y: 2.0d,
+	text: [
+		"以精准的工具裁剪树冠，以精巧的手艺处理树叶"
+	],
+	dependencies: [
+		"ee5076da"
+	],
+	tasks: [{
+		uid: "7d90ce69",
+		type: "item",
+		items: [{
+			id: "dirtcraft:stoneshears",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

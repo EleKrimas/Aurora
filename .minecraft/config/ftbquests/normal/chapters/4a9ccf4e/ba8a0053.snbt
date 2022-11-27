@@ -1,0 +1,18 @@
+{
+	title: "造石机",
+	x: -5.5d,
+	y: -2.0d,
+	text: [
+		"是时候将自己从枯燥无味的刷石劳动中解放出来了，以水火的永动魔力为能源，可以不断的产生圆石以供使用"
+	],
+	dependencies: [
+		"3ab09f8a"
+	],
+	tasks: [{
+		uid: "0555824d",
+		type: "item",
+		items: [{
+			item: "tp:iron_cobblegen_block"
+		}]
+	}]
+}

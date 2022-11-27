@@ -1,0 +1,17 @@
+{
+	x: -4.0d,
+	y: 2.0d,
+	text: [
+		"大浪淘沙，去糟留精。即使沙子里的铁含量并不高，但是积少成多，至少你现在只能这么来"
+	],
+	dependencies: [
+		"4e725520"
+	],
+	tasks: [{
+		uid: "c3a66610",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_nugget"
+		}]
+	}]
+}

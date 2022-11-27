@@ -1,0 +1,18 @@
+{
+	x: -5.5d,
+	y: -7.0d,
+	text: [
+		"极其富有粘性，可以使用它来粘合一些物品"
+	],
+	dependencies: [
+		"57fb08fe",
+		"7231dedf"
+	],
+	tasks: [{
+		uid: "4293bcbf",
+		type: "item",
+		items: [{
+			item: "minecraft:slime_ball"
+		}]
+	}]
+}

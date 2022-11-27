@@ -1,0 +1,31 @@
+{
+    "block_pools":
+    [
+        {
+            "name":"additions:aurora-com_stone",
+            "type":{"type":"block","name":"additions:aurora-com_stone"},
+            "clicktype":"leftclick",
+            "properties":[
+            {
+                "type": "require_sneak"
+            },
+            {
+                "type": "require_item",
+	"name": "additions:aurora-brokenstone"
+            },
+            {
+                "type": "player_cooldown",
+                "time":"4"
+            },
+            {
+                "type":"consume_item",
+                "amount": "1",
+                "chance": "100"
+            }],
+            "drops":[
+            {
+                "name":"additions:aurora-small_sand","amount": "1","chance": "100"
+            }]
+        }
+    ]
+}

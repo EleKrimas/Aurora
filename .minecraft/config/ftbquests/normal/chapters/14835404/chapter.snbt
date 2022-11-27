@@ -1,0 +1,7 @@
+{
+	title: "炼金工艺，万物之始",
+	icon: "extraalchemy:alchemy_array_transmute",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

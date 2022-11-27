@@ -1,0 +1,22 @@
+{
+    "block_pools":
+    [
+        {
+            "name":"minecraft:dirt",
+            "type":{"type":"block","name":"minecraft:dirt"},
+            "clicktype":"leftclick",
+            "properties":[
+            {
+                "type": "require_sneak"
+            },
+            {
+                "type": "player_cooldown",
+                "time":"10"
+            }],
+            "drops":[
+            {
+                "name":"additions:aurora-shuidi","amount": "1","chance": "30"
+            }]
+        }
+    ]
+}

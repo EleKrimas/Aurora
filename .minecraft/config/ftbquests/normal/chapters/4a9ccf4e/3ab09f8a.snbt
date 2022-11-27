@@ -1,0 +1,14 @@
+{
+	x: -4.0d,
+	y: -1.0d,
+	dependencies: [
+		"02f96de9"
+	],
+	tasks: [{
+		uid: "6d2d6f69",
+		type: "item",
+		items: [{
+			item: "arcanearchives:raw_quartz"
+		}]
+	}]
+}

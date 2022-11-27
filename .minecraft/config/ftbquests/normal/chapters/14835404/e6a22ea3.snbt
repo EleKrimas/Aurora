@@ -1,0 +1,18 @@
+{
+	title: "水滴",
+	x: -2.5d,
+	y: 0.5d,
+	text: [
+		"如果耐下性子去轻击，就有很小的概率从泥土中获得水滴，这种水滴有着极强的魔力亲和力"
+	],
+	dependencies: [
+		"592d96bf"
+	],
+	tasks: [{
+		uid: "96703427",
+		type: "item",
+		items: [{
+			item: "additions:aurora-shuidi"
+		}]
+	}]
+}

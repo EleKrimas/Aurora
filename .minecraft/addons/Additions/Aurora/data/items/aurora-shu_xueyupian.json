@@ -1,0 +1,22 @@
+{
+  "name": "§d七分熟的鳕鱼肉排",
+  "max_stack": 63,
+  "hunger": 10,
+  "saturation": 0.5,
+  "always_edible": true,
+  "eaten_effects": [
+    {
+      "command": "/effect @p minecraft:strength 90 1",
+      "type": "additions:command"
+    },
+    {
+      "command": "/effect @p minecraft:regeneration 90 1",
+      "type": "additions:command"
+    },
+    {
+      "command": "/effect @p minecraft:night_vision 90 0",
+      "type": "additions:command"
+    }
+  ],
+  "type": "additions:food"
+}

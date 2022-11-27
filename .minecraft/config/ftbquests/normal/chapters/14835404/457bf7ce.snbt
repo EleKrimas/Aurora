@@ -1,0 +1,18 @@
+{
+	x: -5.5d,
+	y: -8.5d,
+	text: [
+		"进一步研磨，并用充满粘性的物质将他们的魔力特性粘合在一起"
+	],
+	dependencies: [
+		"79d27f1f",
+		"24c6e2bd"
+	],
+	tasks: [{
+		uid: "4a38e257",
+		type: "item",
+		items: [{
+			item: "additions:aurora-magic_chen"
+		}]
+	}]
+}

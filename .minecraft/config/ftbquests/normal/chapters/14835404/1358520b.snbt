@@ -1,0 +1,17 @@
+{
+	x: -2.5d,
+	y: -7.0d,
+	text: [
+		"火燃尽一切，又创造一切，世界万物，皆随之新生而毁灭"
+	],
+	dependencies: [
+		"2b619f84"
+	],
+	tasks: [{
+		uid: "09573b35",
+		type: "item",
+		items: [{
+			item: "extraalchemy:essence_fire"
+		}]
+	}]
+}

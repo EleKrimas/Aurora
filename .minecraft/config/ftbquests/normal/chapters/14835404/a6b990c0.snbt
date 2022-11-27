@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: -4.0d,
+	text: [
+		"将木炭研磨完全之后，能将其中的热值完美的释放出来，一份木炭足足能熔炼八个物品"
+	],
+	dependencies: [
+		"dae06fac"
+	],
+	tasks: [{
+		uid: "07f55a62",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 769"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -5.5d,
+	y: 2.0d,
+	text: [
+		"只有泥土的世界是枯燥而乏味的，是时候来点绿色了"
+	],
+	dependencies: [
+		"6d49236b"
+	],
+	tasks: [{
+		uid: "a636c8be",
+		type: "item",
+		items: [{
+			item: "botania:grassseeds"
+		}]
+	}]
+}

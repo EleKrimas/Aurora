@@ -1,0 +1,17 @@
+{
+	x: -4.0d,
+	y: -2.5d,
+	text: [
+		"风起舞兮"
+	],
+	dependencies: [
+		"20e5c0ed"
+	],
+	tasks: [{
+		uid: "311aba06",
+		type: "item",
+		items: [{
+			item: "extraalchemy:essence_wind"
+		}]
+	}]
+}

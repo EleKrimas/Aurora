@@ -1,0 +1,8 @@
+{
+  "name": "劣质打火器",
+  "max_stack": 1,
+  "durability": 2,
+  "enchantability": 2,
+  "repair_stacks": {},
+  "type": "additions:firestarter"
+}

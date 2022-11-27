@@ -1,0 +1,17 @@
+{
+	x: -7.0d,
+	y: -7.0d,
+	text: [
+		"掺杂了一些生命之力的植物球"
+	],
+	dependencies: [
+		"9e0a9955"
+	],
+	tasks: [{
+		uid: "ef1d6a11",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 44"
+		}]
+	}]
+}

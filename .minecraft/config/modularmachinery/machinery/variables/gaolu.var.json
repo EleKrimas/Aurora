@@ -1,0 +1,9 @@
+{
+    "gaolu": [
+        "modularmachinery:blockinputbus",
+        "modularmachinery:blockoutputbus",
+        "modularmachinery:blockfluidinputhatch",
+        "modularmachinery:blockfluidoutputhatch",
+        "modularmachinery:blockenergyinputhatch"
+    ]
+}

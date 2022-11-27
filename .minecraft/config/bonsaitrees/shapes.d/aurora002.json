@@ -1,0 +1,80 @@
+{
+  "type": "additions:magic_tree",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "botania:dreamwood",
+      "meta": 0
+    },
+    "b": {
+      "name": "roots:elemental_soil_fire",
+      "meta": 0
+    },
+    "c": {
+      "name": "roots:elemental_soil_water",
+      "meta": 0
+    },
+    "d": {
+      "name": "roots:runestone_brick",
+      "meta": 0
+    },
+    "e": {
+      "name": "roots:runestone",
+      "meta": 0
+    },
+    "f": {
+      "name": "roots:elemental_soil_earth",
+      "meta": 0
+    },
+    "g": {
+      "name": "roots:elemental_soil_air",
+      "meta": 0
+    },
+    "h": {
+      "name": "cyclicmagic:fire_dark",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "  c  ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "  d  "
+    ],
+    [
+      "     ",
+      "  c  ",
+      "  a  ",
+      "     ",
+      "  a  ",
+      " ded "
+    ],
+    [
+      "g h b",
+      " gab ",
+      " aaa ",
+      "  a  ",
+      " aaa ",
+      "deaed"
+    ],
+    [
+      "     ",
+      "  f  ",
+      "  a  ",
+      "     ",
+      "  a  ",
+      " ded "
+    ],
+    [
+      "  f  ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "  d  "
+    ]
+  ]
+}

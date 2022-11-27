@@ -1,0 +1,18 @@
+{
+	title: "创造工作台",
+	x: -7.0d,
+	y: -1.0d,
+	text: [
+		"一个朴实而基础的方块，却能激发无穷的智慧，你可以在其上肆意的发挥自己的想象力"
+	],
+	dependencies: [
+		"7dceac5c"
+	],
+	tasks: [{
+		uid: "eb22a0bf",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}]
+}

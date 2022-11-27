@@ -1,0 +1,31 @@
+{
+  "preset_block": "additions:aurora-chunjing_stone",
+  "preset_dropStack": {
+    "item": "additions:aurora-fusheng_suipian"
+  },
+  "preset_dropMin": 6,
+  "preset_dropMax": 3,
+  "pools": [
+    {
+      "name": "item_pool",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "additions:aurora-fusheng_suipian",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 6,
+                "max": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "preset_type": "additions:block_item_drop"
+}

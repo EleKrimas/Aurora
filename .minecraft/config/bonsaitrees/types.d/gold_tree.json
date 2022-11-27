@@ -1,0 +1,51 @@
+{
+  "name": "additions:gold_tree",
+  "mod": "additions",
+  "sapling": {
+    "name": "additions:aurora-gold",
+    "data": 0
+  },
+  "growTimeMultiplier": 1.0,
+  "drops": [
+    {
+      "name": "minecraft:gold_nugget",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 1
+
+    },
+    {
+      "name": "minecraft:gold_nugget",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.8
+
+    },
+    {
+      "name": "minecraft:gold_nugget",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.6
+
+
+    },
+    {
+      "name": "minecraft:gold_nugget",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.4
+
+    },
+    {
+      "name": "minecraft:gold_ingot",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.2
+    }
+  ]
+}

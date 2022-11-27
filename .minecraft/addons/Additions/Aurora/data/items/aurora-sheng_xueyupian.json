@@ -1,0 +1,7 @@
+{
+  "name": "§d原切鳕鱼刺身",
+  "hunger": 2,
+  "saturation": 0.5,
+  "always_edible": true,
+  "type": "additions:food"
+}

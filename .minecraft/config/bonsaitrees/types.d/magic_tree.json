@@ -1,0 +1,39 @@
+{
+  "name": "additions:magic_tree",
+  "mod": "additions",
+  "sapling": {
+    "name": "extraalchemy:alchemical_dissovent",
+    "data": 0
+  },
+  "growTimeMultiplier": 3,
+  "drops": [
+    {
+      "name": "extraalchemy:essence_earth",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "name": "extraalchemy:essence_water",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "name": "extraalchemy:essence_wind",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "name": "extraalchemy:essence_fire",
+      "data": 0,
+      "type": "CUSTOM",
+      "count": 1,
+      "chance": 0.5
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "item_block": {
+    "name": "纯净富生石",
+    "type": "additions:block_simple"
+  },
+  "name": "纯净富生石",
+  "material": "minecraft:stone",
+  "hardness": 2.0,
+  "harvest_level": 3,
+  "harvest_tool": "pickaxe",
+  "effective_tools": "pickaxe",
+  "light_level": 2,
+  "type": "additions:simple"
+}

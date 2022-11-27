@@ -1,0 +1,18 @@
+{
+	title: "石头堆",
+	x: -1.0d,
+	y: -1.0d,
+	text: [
+		"虽然说是小石头，但是硬度缺并不理想，或许进一步压缩会有更好的硬度"
+	],
+	dependencies: [
+		"c321b947"
+	],
+	tasks: [{
+		uid: "0cdc970f",
+		type: "item",
+		items: [{
+			item: "additions:aurora-brokenstone"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -7.0d,
+	y: -4.0d,
+	text: [
+		"万物生于大地，终将归于大地。轮转不止，生生不息"
+	],
+	dependencies: [
+		"dd405f8a"
+	],
+	tasks: [{
+		uid: "98892aa8",
+		type: "item",
+		items: [{
+			item: "extraalchemy:essence_earth"
+		}]
+	}]
+}

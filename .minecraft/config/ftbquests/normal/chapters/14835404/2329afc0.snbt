@@ -1,0 +1,56 @@
+{
+	title: "树苗交换",
+	icon: "minecraft:sapling",
+	x: -7.0d,
+	y: 0.5d,
+	shape: "circle",
+	text: [
+		"或许你并不喜欢自己的树苗，但只要付出一点微不足道的代价，你就能在一定范围内改变它的品种。",
+		"如果嫌弃树苗生长的太慢，你可以在它周围跑动，来让它获得催生的效果"
+	],
+	dependencies: [
+		"6d49236b"
+	],
+	tasks: [{
+		uid: "d3a662e5",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any treeSapling"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "treeSapling"
+				}
+			}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "328efc5a",
+		type: "item",
+		items: [{
+			id: "extraalchemy:essence_water",
+			tag: {}
+		}],
+		consume_items: true
+	},
+	{
+		uid: "c9540ee6",
+		type: "item",
+		items: [{
+			item: "minecraft:dirt"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "b3b7c647",
+		type: "choice",
+		icon: "minecraft:leaves",
+		table: 0
+	}]
+}

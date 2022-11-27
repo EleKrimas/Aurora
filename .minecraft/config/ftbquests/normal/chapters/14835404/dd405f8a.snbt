@@ -1,0 +1,44 @@
+{
+	x: -5.5d,
+	y: -4.0d,
+	dependencies: [
+		"ff2a1256"
+	],
+	tasks: [{
+		uid: "13f10cbd",
+		type: "item",
+		items: [{
+			id: "silentgems:pickaxe",
+			tag: {
+				SGConstruction: {
+					Part0: "silentgems:flint#NONE",
+					Part1: "silentgems:flint#NONE",
+					Part2: "silentgems:flint#NONE",
+					PartRod: "silentgems:rodwood#NONE"
+				},
+				display: {
+					Name: "燧石镐"
+				},
+				SG_UUIDMost: 5518343428487530995L,
+				SG_UUIDLeast: -5108154108355088405L,
+				SGProperties: {
+					HarvestSpeed: 5.0f,
+					MeleeDamage: 1.5f,
+					MagicDamage: 0.0f,
+					MeleeSpeed: 1.1f,
+					ChargeSpeed: 1.0f,
+					HarvestLevel: 1,
+					Durability: 128,
+					Protection: 3.0f,
+					Enchantability: 6,
+					ToolTier: 0
+				},
+				SGStatistics: {
+					OriginalOwner: "作弊者！"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

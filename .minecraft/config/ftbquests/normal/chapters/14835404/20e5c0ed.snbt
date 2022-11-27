@@ -1,0 +1,18 @@
+{
+	title: "魔封瓶",
+	x: -4.0d,
+	y: -1.0d,
+	text: [
+		"空气中弥漫着大量的魔力，也许~"
+	],
+	dependencies: [
+		"aa8335c6"
+	],
+	tasks: [{
+		uid: "df8c780f",
+		type: "item",
+		items: [{
+			item: "extraalchemy:air_bottle"
+		}]
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "炼金溶液",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "alchemical_dissovent",
+			Amount: 1000
+		}
+	},
+	x: -5.5d,
+	y: -5.5d,
+	text: [
+		"炼金溶液可以将其中沉浸的石头自动转换成金粒，并且不会消耗",
+		"相比于那一小瓶炼金溶剂而言，绝对算得上一场革新"
+	],
+	dependencies: [
+		"f7326207"
+	],
+	tasks: [{
+		uid: "5c8f86cc",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_nugget"
+		}],
+		count: 32L
+	}]
+}

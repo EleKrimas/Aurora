@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: -5.5d,
+	dependencies: [
+		"2b619f84"
+	],
+	tasks: [{
+		uid: "948354c2",
+		type: "item",
+		items: [{
+			item: "roots:mortar"
+		}]
+	}]
+}

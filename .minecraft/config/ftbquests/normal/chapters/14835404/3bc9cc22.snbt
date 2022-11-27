@@ -1,0 +1,33 @@
+{
+	title: "木材",
+	icon: "minecraft:planks",
+	x: -7.0d,
+	y: -2.5d,
+	text: [
+		"空手并不能处理加工板材，是时候做一把工具了"
+	],
+	dependencies: [
+		"ff2a1256",
+		"932d423e"
+	],
+	tasks: [{
+		uid: "fb16ffc8",
+		type: "item",
+		items: [{
+			id: "skyresources:stonecuttingknife",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1ee3df6c",
+		type: "item",
+		items: [{
+			item: "minecraft:planks"
+		}],
+		count: 32L
+	}]
+}

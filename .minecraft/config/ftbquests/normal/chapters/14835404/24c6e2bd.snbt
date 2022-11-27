@@ -1,0 +1,39 @@
+{
+	title: "元素结晶",
+	x: -7.0d,
+	y: -8.5d,
+	text: [
+		"元素本源只能用来粗略的使用，但是用炼金术师的析出之血便能将他转换为一些更便于加工的结晶"
+	],
+	dependencies: [
+		"7231dedf"
+	],
+	tasks: [{
+		uid: "35db14cc",
+		type: "item",
+		items: [{
+			item: "additions:aurora-di_jie"
+		}]
+	},
+	{
+		uid: "9d7be3e4",
+		type: "item",
+		items: [{
+			item: "additions:aurora-fire_jie"
+		}]
+	},
+	{
+		uid: "a57c51f7",
+		type: "item",
+		items: [{
+			item: "additions:aurora-water_jie"
+		}]
+	},
+	{
+		uid: "eae1115d",
+		type: "item",
+		items: [{
+			item: "additions:aurora-winter_jie"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: -8.5d,
+	shape: "gear",
+	text: [
+		"对于星辰之力的初步引用，当它处在星空之下，便会自然而然的生成辉耀水晶于其上",
+		"这是之后重要的魔法材料",
+		"但由于某些原因，它只能制作三台,一但超过这个阈值，它便会停止工作"
+	],
+	dependencies: [
+		"fed4f439",
+		"fd52cb41"
+	],
+	tasks: [{
+		uid: "32c4e709",
+		type: "item",
+		items: [{
+			item: "arcanearchives:radiant_resonator"
+		}]
+	}]
+}

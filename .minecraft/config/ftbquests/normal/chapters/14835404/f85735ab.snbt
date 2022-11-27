@@ -1,0 +1,31 @@
+{
+	title: "火",
+	icon: "minecraft:fire_charge",
+	x: -2.5d,
+	y: -2.5d,
+	text: [
+		"燧石和石头的击打能产生一些火焰，虽然不能持久的存在，但你仍然可以用但它做一些简单的冶炼，例如，一些玻璃残渣"
+	],
+	dependencies: [
+		"01c6124a"
+	],
+	tasks: [{
+		uid: "5fb3d10b",
+		type: "item",
+		items: [{
+			id: "additions:aurora-fir_creative",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bc8bbc5c",
+		type: "item",
+		items: [{
+			item: "additions:aurora-broken_glass"
+		}]
+	}]
+}
